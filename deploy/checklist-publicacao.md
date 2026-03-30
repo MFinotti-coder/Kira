@@ -1,0 +1,2 @@
+- validar prompt
+- validar comportamento
