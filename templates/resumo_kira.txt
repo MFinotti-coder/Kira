@@ -1,0 +1,9 @@
+[RESUMO KIRA]
+
+Use este espaco para colar:
+- resumo antes do almoco
+- resumo de fim do dia
+- texto pronto para daily
+
+ULTIMO_RESUMO:
+

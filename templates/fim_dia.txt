@@ -1,0 +1,9 @@
+[FIM DO DIA]
+
+[ ] Atualizei o estado atual
+[ ] Defini o proximo passo fisico
+[ ] Registrei no controle de bordo
+[ ] Capturei pendencias
+[ ] Sei exatamente por onde comeco amanha
+[ ] Lancei horas
+

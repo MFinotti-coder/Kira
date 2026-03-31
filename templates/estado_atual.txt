@@ -1,3 +1,2 @@
-PROJETO_ATUAL:
-OBJETIVO_DO_DIA:
-PROXIMO_PASSO_FISICO:
+ULTIMO_PONTO_CONCLUIDO: criação do painel e registro no controle de bordo
+PROXIMO_PASSO_FISICO: abrir arquivo de definição da Kira e enviar rascunho

@@ -1,3 +1,11 @@
-[DATA - HORA]
-ACAO:
-PROXIMO_PASSO:
+[HOJE - AGORA]
+ACAO: criação do painel e teste inicial
+DECISAO: usar painel como entrada principal do sistema
+IMPACTO: redução de esforço para acessar arquivos
+PROXIMO_PASSO: testar uso real no fluxo de trabalho
+
+[HOJE - AGORA]
+ACAO: envio do rascunho da definição da Kira
+DECISAO: usar sistema Kira como base de trabalho
+IMPACTO: início de uso real no dia a dia
+PROXIMO_PASSO: aplicar Kira em tarefa real de QA
